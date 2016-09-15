@@ -1,0 +1,1 @@
+json.array! @brasseries, partial: 'brasseries/brasseries', as: :brasseries
